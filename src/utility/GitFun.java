@@ -7,6 +7,11 @@ public class GitFun {
 
 
         System.out.println("Every is fun for me");
+        
+        // this is line from github
+        // bula bula bula
+        // java java java
+        
 
 
     }
